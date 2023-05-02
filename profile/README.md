@@ -17,6 +17,7 @@ Repositories related to our research:
 
 If you are a lab geek searching for THAT missing Python interface these might be useful for you:
 
+* [handyscope](https://github.com/emtpb/handyscope), an interface for TiePie USB oscilloscopes.  
 * [tektronixsg](https://github.com/emtpb/tektronixsg), an interface for Tektronix signal generators.
 * [keysightosc](https://github.com/emtpb/keysightosc), an interface for Keysight oscilloscopes.
 
