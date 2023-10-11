@@ -4,8 +4,8 @@ To help you find your way around, here is a small breakdown of our repositories.
 
 Material related to our courses and lectures:
 
-* [Python scripts for "Messtechnische Signalanalyse mit Matlab und Python (MSMP)"](https://github.com/search?q=org%3Aemtpb+msmp-)
-* [PCBs for our microcontroller course ("PMI")](https://github.com/search?q=org%3Aemtpb+pmi-)
+* [Python scripts for "Messtechnische Signalanalyse mit Matlab und Python (MSMP)"](https://github.com/search?q=org%3Aemtpb+msmp-&type=repo)
+* [PCBs for our microcontroller course ("PMI")](https://github.com/search?q=org%3Aemtpb+pmi-&type=repo)
 * [PCBs for laboratory courses](https://github.com/beecourse)
 
 Repositories related to our research:
