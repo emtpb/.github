@@ -4,6 +4,7 @@ To help you find your way around, here is a small breakdown of our repositories.
 
 Material related to our courses and lectures:
 
+* [mca](https://github.com/emtpb/mca), an easy-to-use graphical software to learn signal analysis methods
 * [Python scripts for our signal analysis course ("MSP")](https://github.com/search?q=org%3Aemtpb+msp-&type=repo)
 * [PCBs for our microcontroller course ("PMI")](https://github.com/search?q=org%3Aemtpb+pmi-&type=repo)
 * [PCBs for laboratory courses](https://github.com/beecourse)
