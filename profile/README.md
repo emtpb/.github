@@ -22,4 +22,4 @@ If you are a lab geek searching for THAT missing Python interface these might be
 * [tektronixsg](https://github.com/emtpb/tektronixsg), an interface for Tektronix signal generators.
 * [keysightosc](https://github.com/emtpb/keysightosc), an interface for Keysight oscilloscopes.
 
-You can't relate with any of the topics mentioned, but still want to understand them? Click [here](https://www.uni-paderborn.de/studienangebot/studiengang/elektrotechnik-bachelor).
+You can't relate with any of the topics mentioned, but still want to understand them? Click [here](https://go.upb.de/studiere-et).
