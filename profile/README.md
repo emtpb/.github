@@ -9,6 +9,7 @@ Material related to our courses and lectures:
 * [PCBs for our microcontroller course ("PMI")](https://github.com/search?q=org%3Aemtpb+pmi-&type=repo)
 * [PCBs for laboratory courses](https://github.com/beecourse)
 * [Pico pupil projects](https://github.com/search?q=org%3Aemtpb+pico-&type=repo)
+* [ET rulers](https://github.com/search?q=org%3Aemtpb+et-ruler-&type=repo)
 
 Repositories related to our research:
 
